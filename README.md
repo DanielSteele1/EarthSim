@@ -1,4 +1,5 @@
 ------------------- README -----------------------------
+
 My 70% Project was to create a scene in OpenGL. Specifically, to render the moon rotating around the earth in space. Then, to add a Satellite that orbits the Earth. 
 The player can of course fly around with full camera controls, and each model has at least a semi-accurate orbit to that of real life.  
 A Cubemap is used to create the space skybox, and the planets themselves are loaded into the project using ASSIMP. 
