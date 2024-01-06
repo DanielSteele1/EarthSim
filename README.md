@@ -1,4 +1,4 @@
-------------------- README --------------------------------------
+------------------------ README -------------------------------
 
 My 70% Project was to create a scene in OpenGL. Specifically, to render the moon rotating around the earth in space. Then, to add a Satellite that orbits the Earth. 
 The player can of course fly around with full camera controls, and each model has at least a semi-accurate orbit to that of real life.  
@@ -9,7 +9,7 @@ If given the opportunity, I would have liked to have added in a sun, with lighti
 To run, Simply open the EarthSim-Coursework2.sln attached via Github, and start the project. Then, to move around, use the WASD Key's, and Mouse to look around the scene.
 
 
-------------------- CODING ENVIRONMENT USED  ---------------------
+-------------------  ENVIRONMENT USED  -------------------------
 
 Created in Visual Studio 2022 Version 17.8
 Developed in C++ 
