@@ -8,6 +8,13 @@ All Textures and Models can be found in the /media folder, and shaders are organ
 If given the opportunity, I would have liked to have added in a sun, with lighting and shadow effects on the earth and moon, maybe even a day, or night cycle. But these are more advanced features and would take me a little more time to learn. 
 To run, Simply open the EarthSim-Coursework2.sln attached via Github, and start the project. Then, to move around, use the WASD Key's, and Mouse to look around the scene.
 
+
+------------------- CODING ENVIRONMENT USED  ---------------------
+
+Created in Visual Studio 2022 Version 17.8
+Developed in C++ 
+Utilised OOP methodologies 
+
 ------------------- LIBRARIES NEEDED TO RUN ---------------------
 
 Please make sure these libraries are added to the project in order to load the scene correctly: 
