@@ -30,7 +30,7 @@ Everything is found in C:\users\public\OpenGL - Except for assimp, which is also
 
 Github: https://github.com/DanielSteele1/COMP3016_2
 
-YouTube demo vid: 
+YouTube demo vid: https://youtu.be/O0wtXeHL6Xc
 
 ------------------ EXTERNAL RESOURCES USED ---------------------
 
