@@ -1,0 +1,8 @@
+﻿  glad.c
+  LoadShaders.cpp
+  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 845 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  EarthSim-Coursework2.vcxproj -> C:\Users\Daniel Steele\source\repos\EarthSim-Coursework2\x64\Release\EarthSim-Coursework2.exe

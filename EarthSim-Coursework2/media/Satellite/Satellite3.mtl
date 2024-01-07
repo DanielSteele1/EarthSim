@@ -1,0 +1,12 @@
+# Blender 4.0.1 MTL File: 'Satellite.blend'
+# www.blender.org
+
+newmtl 10477_Satellite_v1
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.675000 0.675000 0.675000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd 10477_Satellite_v1_Diffuse.jpg
