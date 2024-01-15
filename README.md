@@ -50,4 +50,9 @@ Texture for Moon - https://www.google.com/url?sa=i&url=https%3A%2F%2Fsvs.gsfc.na
 Texture for Earth - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.solarsystemscope.com%2Ftextures%2F&psig=AOvVaw0E5Xt9DtfOjRIhIr1Xe8fW&ust=1704630810534000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICo5-LiyIMDFQAAAAAdAAAAABAw
 
 Models for Earth & Moon were created by myself using the software Blender.
+---------------------- CONCLUSION -------------------------------
+To conclude, I'm very happy with the outcome of this project, as it's my first project using OpenGL. I have learnt a lot and enjoyed the process, but I think if I could do more on this project, 
+I would try to add in the sun, as well as lighting to create a shading effect, and try to implement a day-night cycle. 
+I could also try to use PCG to generate a meteor belt around everything or try to generate the rest of the planets in our solar system. 
 
+Of course, these are just ideas but if I had more time and knowledge, I would have looked into these ideas in a lot more detail.
