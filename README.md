@@ -35,12 +35,18 @@ Github: https://github.com/DanielSteele1/COMP3016_2
 ------------------ EXTERNAL RESOURCES USED ---------------------
 
 learnOpenGL.com - used to research how to implement skybox into the scene
+
 Skybox textures - Created using a Free open-source .exe called Spacescape. It enables you to generate space and nebula skyboxes. Warning - clicking this link will start downloading the software. 
 https://sourceforge.net/projects/spacescape/files/win/spacescape-0.5.1.zip/download?use_mirror=altushost-swe&download=&failedmirror=deac-riga.dl.sourceforge.net
+
 Free Model and Texture assets for Satellite - https://free3d.com/3d-model/satellite-v1--384167.html
+
 Texture for clouds (merged with texture for earth using PhotoPea) - https://upload.wikimedia.org/wikipedia/commons/7/7a/Solarsystemscope_texture_8k_earth_clouds.jpg
+
 Texture for Moon - https://www.google.com/url?sa=i&url=https%3A%2F%2Fsvs.gsfc.nasa.gov%2Fcgi-bin%2Fdetails.cgi%3Faid%3D4720&psig=AOvVaw3E1jr4UAmoPoXbQ53ivDGX&ust=1704631545047000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKCvtMPlyIMDFQAAAAAdAAAAABAD
+
 Texture for Earth - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.solarsystemscope.com%2Ftextures%2F&psig=AOvVaw0E5Xt9DtfOjRIhIr1Xe8fW&ust=1704630810534000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICo5-LiyIMDFQAAAAAdAAAAABAw
+
 Models for Earth & Moon were created by myself using the software Blender.
 
 ---------------------- CONCLUSION -------------------------------
